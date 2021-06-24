@@ -1,5 +1,5 @@
 # javaProgramms
 Hi guys 
 this is created by satish
-makethe changesby satish tiwari
+make the changes by satish tiwari
 
