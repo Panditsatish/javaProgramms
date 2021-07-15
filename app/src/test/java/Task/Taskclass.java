@@ -32,6 +32,4 @@ public class Taskclass {
         System.out.println("largest  element="+array[array.length-1]);
     }
 
-    public void Method() {
-    }
 }
